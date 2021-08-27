@@ -5,6 +5,9 @@ public class Tests extends DriverInit{
     @Test
     public void tests() throws InterruptedException {
         SwipingAndScrolling ss = new SwipingAndScrolling();
-                ss.testingHorizontalSwipe();
+       //ss.testingHorizontalSwipe();
+       //ss.testingVerticalSwipe();
+       //ss.testingSwipeToElement();
+        //ss.scrollToElement();
     }
 }
