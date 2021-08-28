@@ -44,8 +44,8 @@ public class BaseSetup {
 
     }
 
-    @AfterClass
+   /* @AfterClass
     public void teatDown(){
         ad.quit();
-    }
+    }*/
 }
